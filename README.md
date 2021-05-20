@@ -9,5 +9,5 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Backend developer, knowing Node.js, Electron, and more ;) </br>
+🌱 I’m a Backend and Frontend developer, knowing Node.js, Electron, and more ;) </br>
 👨‍💻  I know a lil web dev, and am planning to do something either with that or with backend.. or both! </br>
