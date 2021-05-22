@@ -3,13 +3,13 @@
 <head>
     <title>HiveMC | Java - awexx</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="hive,hivemc,hivemc stats,hivemc shutdown,awexxx,RoboTic,itsawex,hivemc down,hivemc bedrock,minecraft java, minecraft bedrock, minecraft">
+    <meta name="keywords" content="hive,hivemc,hivemc stats,hivemc shutdown,awexxx,RoboTic,itsawex,hivemc down,hivemc bedrock,minecraft java, minecraft bedrock, minecraft, hivemc stats lookup">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <script src="https://cdn.jsdelivr.net/gh/awexxx/awexxx/assets/js/hiveLookup.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/plaguecraft-team/pcn-web/storage/assets/js/hidePanel.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/awexxx/awexxx/assets/js/hidePanel.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/plaguecraft-team/pcn-web/storage/assets/css/form.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="shortcut icon" type="image/png" href="assets/img/logo.png"/>
@@ -34,7 +34,7 @@
 
     <h2>HiveMC Stats Lookup</h2>
         <h3>What happened?</h3>
-            <p>On April 15th, 2021, the HiveMC shut down their Java Edition servers. Their API is up until sometime in 2022, which still has accessible player data.<br>
+            <p>On April 15th, 2021 at 5pm EST // 10pm BST, the HiveMC shut down their Java Edition servers. Their API is up until sometime in 2022, which still has accessible player data.<br>
             This is complicated for most users, so I decided to make something that can look up this data.<br>
         <strong>Note:</strong> I do not have a way to save all of this data at the moment.<br> It is recommended you save it yourself via the provided raw JSON link <strong>BEFORE</strong> 2022.</p>
 
@@ -49,6 +49,7 @@
                   </form>
               <section>
                   <div id="panel"></div>
+                  <div id="link"></div>
                   <button type="button" onclick="hidePanel()" style="font-size:20px;" class="hide" id="submitBtn">Hide the Panel</button><br /><br />
                 </section>
 
@@ -74,6 +75,7 @@ grav = Gravity<br>
 gnt = SkyGiants<br>
 bd = Battery Dash<br>
 mimv = Murder in MineVille</p>
+                <h2>Games not supported</h2>
                     <p>I do not have all of the games included on this site since I never managed to play all of them.<br>
                     If you have played one of the following, send an issue on the <a href="https://github.com/awexxx/awexxx/issues" target="_blank">GitHub Repository</a> with the game you want me to add and your IGN.<br>
                 Cranked<br>
@@ -83,7 +85,7 @@ mimv = Murder in MineVille</p>
 SkyGiants: Mini<br>
 Pumpkinfection<br>
 Survival Games 2<br>
-BedWars<br>
+<strike>BedWars</strike> - This seems to be a dead endpoint as it just returns an error regardless.<br>
 Survive the Night<br>
 Explosive Eggs<br>
 Snow Wars</p>

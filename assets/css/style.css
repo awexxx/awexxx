@@ -74,6 +74,10 @@ a:hover{
   display:none;
 }
 
+#link {
+  display:none;
+}
+
 /*Home*/
 #welcome{
   background-color:#474747;
