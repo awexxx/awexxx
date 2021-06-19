@@ -3,9 +3,11 @@
 <a href="https://twitter.com/_awexx">
   <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+  -
 <a href="mailto:alex@plaguecraft.xyz">
   <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+  -
 <a href="https://awexxx.xyz/discord">
   <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
  </a>
