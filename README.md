@@ -28,9 +28,7 @@
 </p>
 
 ### <p align="center">Stats</p>
-<p align="center">
 [![Awex's GitHub stats](https://github-readme-stats.vercel.app/api?username=awexxx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 ### <p align="center">My Favorite Projects</p>
 [![ShareX Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=sharex-express&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
