@@ -1,13 +1,15 @@
 ### <p align="center">Hi there! I'm [Alex Frantz](https://twitter.com/_awexx) 👋</p>
-<a align="center" href="https://twitter.com/_awexx">
+<p align="center">
+<a href="https://twitter.com/_awexx">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a align="center" href="mailto:alex@plaguecraft.xyz">
+<a href="mailto:alex@plaguecraft.xyz">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a align="center" href="https://awexxx.xyz/discord">
+<a href="https://awexxx.xyz/discord">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
  </a>
+</p>
 
 <br />
 
