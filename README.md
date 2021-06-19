@@ -32,6 +32,7 @@
 [![Awex's GitHub stats](https://github-readme-stats.vercel.app/api?username=awexxx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <p align="center">My Favorite Projects</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=sharex-express&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=awexxx.github.io&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=medal-clip-webhook&theme=dark">
