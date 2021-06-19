@@ -1,5 +1,5 @@
 ### Hi there! I'm [Alex Frantz](https://twitter.com/_awexx) 👋
-<a href="https://twitter.com/isupersky">
+<a href="https://twitter.com/_awexx">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:alex@plaguecraft.xyz">
