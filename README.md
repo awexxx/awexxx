@@ -27,9 +27,9 @@
 [![Awex's GitHub stats](https://github-readme-stats.vercel.app/api?username=awexxx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Favorite Projects
-[![ShareX Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=sharex-express)](https://github.com/anuraghazra/github-readme-stats)
-[![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=awexxx.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![MCW Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=medal-clip-webhook)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plaguecraft-team&repo=plaguecraftbot)](https://github.com/anuraghazra/github-readme-stats)
+[![ShareX Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=sharex-express&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=awexxx.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MCW Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=medal-clip-webhook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plaguecraft-team&repo=plaguecraftbot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
