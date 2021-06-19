@@ -33,9 +33,7 @@
 </p>
 
 ### <p align="center">My Favorite Projects</p>
-<p align="center">
 [![ShareX Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=sharex-express&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=awexxx.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![MCW Card](https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=medal-clip-webhook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plaguecraft-team&repo=plaguecraftbot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
