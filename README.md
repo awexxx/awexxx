@@ -29,7 +29,8 @@
 
 ### <p align="center">Stats</p>
 <p align="center">
-[![Awex's GitHub stats](https://github-readme-stats.vercel.app/api?username=awexxx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=awexxx&theme=dark">
+</p>
 
 ### <p align="center">My Favorite Projects</p>
 <p align="center">
