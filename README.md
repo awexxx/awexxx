@@ -39,8 +39,8 @@
 
 ### <p align="center">My Favorite Projects</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=sharex-express&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=awexxx.github.io&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=medal-clip-webhook&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=plaguecraft-team&repo=plaguecraftbot&theme=dark">
+  <a href="https://github.com/awexxx/sharex-express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=sharex-express&theme=dark"></a>
+  <a href="https://github.com/awexxx/awexxx.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=awexxx.github.io&theme=dark"></a>
+  <a href="https://github.com/awexxx/medal-clip-webhook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awexxx&repo=medal-clip-webhook&theme=dark"></a>
+  <a href="https://github.com/plaguecraft-team/plaguecraftbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=plaguecraft-team&repo=plaguecraftbot&theme=dark"></a>
 </p>
